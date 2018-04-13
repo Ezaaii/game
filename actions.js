@@ -4,10 +4,10 @@
 })();
 var canvas = document.getElementById('canvas'),
   ctx = canvas.getContext("2d"),
-  width = 1800,
-  height = 940,
+  width = 1440,
+  height = 720,
   player = {
-    x : width/2,
+    x : 0,
     y : height - 5,
     width: 50,
     height: 50,

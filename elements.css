@@ -1,3 +1,23 @@
+body{
+  background: #241419;
+}
+h3{
+  display: block;
+  margin: 0 auto;
+  color: #fff;
+  width: 1440px;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
 #canvas{
-outline:1px solid #000
+  display: block;
+  margin:0 auto;
+  background: #fff;
+  outline:1px solid #000;
+}
+kbd{
+  border: 1px white solid;
+  border-radius: 5px;
+  padding-left:10px;
+  padding-right:10px;
 }
