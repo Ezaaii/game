@@ -7,7 +7,7 @@ var canvas = document.getElementById('canvas'),
   width = 1440,
   height = 720,
   player = {
-    x : 25,
+    x : 100,
     y : height - 20,
     width: 30,
     height: 30,
