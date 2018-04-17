@@ -1,7 +1,7 @@
 body{
   background: #241419;
 }
-h1, h3{
+h1, h3, a{
   display: block;
   margin: 0 auto;
   color: #fff;
@@ -20,4 +20,8 @@ kbd{
   border-radius: 5px;
   padding-left:10px;
   padding-right:10px;
+}
+a{
+  margin-top: 10px;
+  text-decoration: none;
 }
